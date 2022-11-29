@@ -1,0 +1,55 @@
+body{
+    background:url(https://colexiodivinapastora.com/wp-content/uploads/sites/23/2022/05/Fondo-de-libros.jpg);
+}
+
+section {
+    background-color:white;
+   
+    height:55px;
+    padding: 0%;
+    
+}
+img{
+   width: 50px;
+   float: left;
+   height: 90%;
+   padding: 5px;
+  
+
+}
+.libreria{
+    color: black;
+    padding: 10px;
+    font-family:sans-serif;
+    
+    
+}
+.titulo1{
+    text-align: center;
+    font-family:sans-serif;
+    background-color: white;
+    
+}
+.titulo2{
+    text-align: center;
+    font-family:sans-serif;
+    background-color: white;
+}
+.centrar1{
+   
+    text-align: center;
+    font-family:sans-serif;
+
+
+}
+
+.centrar3{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 50%;
+    font-family:sans-serif;
+    text-align: center;
+    background-color:white;
+    border-radius: 15px;
+}
