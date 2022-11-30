@@ -1,10 +1,10 @@
 body{
-    background:url(https://colexiodivinapastora.com/wp-content/uploads/sites/23/2022/05/Fondo-de-libros.jpg);
+    background:black;
 }
 
 section {
     background-color:white;
-   
+   margin: 0%;
     height:55px;
     padding: 0%;
     
@@ -18,7 +18,7 @@ img{
 
 }
 .libreria{
-    color: black;
+    color: white;
     padding: 10px;
     font-family:sans-serif;
     
