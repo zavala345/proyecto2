@@ -29,6 +29,7 @@ img{
     font-family:sans-serif;
     background-color: white;
     border-radius: 10px;
+    color: #005BBB;
     
 }
 .titulo2{
@@ -36,11 +37,13 @@ img{
     font-family:sans-serif;
     background-color: white;
     border-radius: 10px;
+    color: #005BBB;
 }
 .centrar1{
    
     text-align: center;
     font-family:sans-serif;
+
 
 
 }
@@ -54,4 +57,19 @@ img{
     text-align: center;
     background-color:white;
     border-radius: 15px;
+    color: #005BBB;
+    border-color:#005BBB;
+    font-weight:600;
+    font-size:18px;
+    
 }
+.btn{
+    text-decoration:none;
+    font-weight:600;
+    font-size:18px;
+    color:#ffffff;
+    border-radius: 10px;
+    background-color:#005BBB;
+    border-color: aqua;
+    }
+    
